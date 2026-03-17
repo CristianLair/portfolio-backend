@@ -18,11 +18,11 @@ export default function Home() {
           </h1>
 
           <h2 className="text-xl text-gray-600">
-            Backend Developer
+            Desarrollador Backend
           </h2>
 
           <p className="text-lg max-w-2xl">
-            Desarrollador backend especializado en sistemas fintech,
+            Especializado en sistemas fintech,
             microservicios e integraciones financieras utilizando Node.js.
           </p>
         </section>

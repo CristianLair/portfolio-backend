@@ -5,8 +5,7 @@ export default function Contact() {
         <h2 className="text-3xl font-semibold">Contacto</h2>
   
         <p className="text-gray-600 max-w-2xl">
-          Si quieres contactarme para oportunidades laborales o proyectos,
-          puedes encontrarme en las siguientes plataformas.
+        Disponible para roles Backend | Fintech | Remoto.
         </p>
   
         <div className="flex gap-4 flex-wrap">
