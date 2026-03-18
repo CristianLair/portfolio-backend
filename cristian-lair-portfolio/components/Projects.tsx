@@ -10,13 +10,13 @@ export default function Projects() {
             Marketplace NFT
           </h3>
   
-          <p className="text-gray-600 max-w-2xl">
+          <p className="  max-w-2xl">
             Desarrollo de un marketplace para la creación, compra y venta de NFTs,
             con integración de wallets como MetaMask para interacción con contratos
             inteligentes y sistema automático de comisiones para creadores.
           </p>
   
-          <ul className="list-disc pl-5 text-gray-600 space-y-1">
+          <ul className="list-disc pl-5   space-y-1">
             <li>Diseño e implementación de APIs backend en Node.js.</li>
             <li>Autenticación de usuarios mediante JWT.</li>
             <li>Gestión de roles y permisos.</li>
@@ -29,7 +29,7 @@ export default function Projects() {
             <a
               href="https://github.com/CristianLair/Henry-Backend-PF"
               target="_blank"
-              className="px-4 py-2 border rounded-lg hover:bg-gray-100"
+              className="px-4 py-2 border  border-foreground/10 rounded-lg hover:bg-foreground/5 transition-colors"
             >
               Ver código
             </a>

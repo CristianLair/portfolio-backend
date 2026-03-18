@@ -8,7 +8,7 @@ export default function Skills() {
   
           <div>
             <h3 className="text-xl font-medium mb-3">Backend</h3>
-            <ul className="list-disc pl-5 text-gray-600 space-y-1">
+            <ul className="list-disc pl-5   space-y-1">
               <li>Node.js</li>
               <li>Go (APIs para microservicios)</li>
               <li>PHP</li>
@@ -20,7 +20,7 @@ export default function Skills() {
      
           <div>
             <h3 className="text-xl font-medium mb-3">Bases de Datos</h3>
-            <ul className="list-disc pl-5 text-gray-600 space-y-1">
+            <ul className="list-disc pl-5   space-y-1">
               <li>MongoDB</li>
               <li>Optimización de consultas e indexación</li>
             </ul>
@@ -29,7 +29,7 @@ export default function Skills() {
 
           <div>
             <h3 className="text-xl font-medium mb-3">Infraestructura</h3>
-            <ul className="list-disc pl-5 text-gray-600 space-y-1">
+            <ul className="list-disc pl-5   space-y-1">
               <li>Docker</li>
               <li>Kubernetes</li>
               <li>Google Cloud Platform (GCP)</li>
@@ -40,7 +40,7 @@ export default function Skills() {
  
           <div>
             <h3 className="text-xl font-medium mb-3">Arquitectura</h3>
-            <ul className="list-disc pl-5 text-gray-600 space-y-1">
+            <ul className="list-disc pl-5   space-y-1">
             <li>Arquitectura Hexagonal</li>
             <li>Domain Driven Design (DDD)</li>
             <li>Diseño de APIs REST</li>
@@ -50,7 +50,7 @@ export default function Skills() {
  
           <div>
             <h3 className="text-xl font-medium mb-3">Autenticación y Seguridad</h3>
-            <ul className="list-disc pl-5 text-gray-600 space-y-1">
+            <ul className="list-disc pl-5   space-y-1">
               <li>JWT</li>
               <li>OAuth</li>
             </ul>

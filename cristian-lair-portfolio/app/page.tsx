@@ -13,13 +13,11 @@ export default function Home() {
       <main className="max-w-4xl mx-auto px-6 py-20">
 
         <section className="space-y-6">
-          <h1 className="text-5xl font-bold">
-            Cristian Lair
-          </h1>
+    
 
-          <h2 className="text-xl text-gray-600">
+          <h1 className="text-3xl   font-semibold">
             Desarrollador Backend
-          </h2>
+          </h1>
 
           <p className="text-lg max-w-2xl">
             Especializado en sistemas fintech,

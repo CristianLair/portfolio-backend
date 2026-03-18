@@ -13,7 +13,7 @@ export default function Experience() {
             Ago 2022 – Actualidad
           </p>
   
-          <ul className="list-disc pl-5 text-gray-600 space-y-2">
+          <ul className="list-disc pl-5   space-y-2">
             <li>
               Desarrollo y mantenimiento de microservicios backend en Node.js
               para sistemas financieros en producción.
@@ -62,10 +62,10 @@ export default function Experience() {
           </h3>
   
           <p className="text-sm text-gray-500">
-            2023 – Actualidad
+            2023 – 2025
           </p>
   
-          <ul className="list-disc pl-5 text-gray-600 space-y-2">
+          <ul className="list-disc pl-5   space-y-2">
             <li>
               Acompañamiento a desarrolladores en formación en la
               construcción de proyectos fullstack.
